@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #002f6c;
+    padding: 10px 20px;
+    color: white;
+}
+
+.logo {
+    height: 50px;
+}
+
+.nav-bar ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-bar li {
+    color: white;
+    cursor: pointer;
+}
